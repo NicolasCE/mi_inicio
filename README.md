@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnologias%C3%ADas" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Soy un profesional de TI especializado en soporte técnico y desarrollo web, con una sólida experiencia en:
+Soy un profesional de TI especializado en soporte técnico y desarrollo web, con experiencia en:
 
 - 🖥️ Soporte técnico presencial y remoto
 - 🌐 Configuración de redes e impresoras IP
