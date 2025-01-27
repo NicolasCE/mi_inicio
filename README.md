@@ -92,7 +92,7 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasCE&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCE&theme=radical" alt="GitHub Streak" />
+  
 </p>
 
 <p align="center">
