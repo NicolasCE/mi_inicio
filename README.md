@@ -40,11 +40,11 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 
 | Tecnología | Nivel | Experiencia |
 |------------|-------|-------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML5 | ⭐⭐⭐⭐⭐ | 2+ años |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS3 | ⭐⭐⭐⭐ | 2+ años |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript | ⭐⭐⭐⭐ | 1+ años |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React | ⭐⭐⭐ | 1 año |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap | ⭐⭐⭐⭐ | 2 años |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML5 | ⭐⭐⭐⭐⭐ 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS3 | ⭐⭐⭐⭐ 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript | ⭐⭐⭐
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React | ⭐⭐⭐⭐⭐
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap | ⭐⭐⭐⭐⭐ 
 
 </details>
 
@@ -57,16 +57,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </div>
-
-```javascript
-const herramientasDesarrollo = {
-  editor: "Visual Studio Code",
-  versionControl: ["Git", "GitHub"],
-  metodologias: ["Scrum", "Kanban"],
-  entornosDesarrollo: ["Windows", "Linux"]
-}
-```
-
 </details>
 
 <details>
@@ -95,29 +85,6 @@ const herramientasDesarrollo = {
     </tr>
   </table>
 </div>
-
-```javascript
-const soporteTecnico = {
-    sistemas: {
-        windows: "⭐⭐⭐⭐⭐",
-        linux: "⭐⭐⭐⭐"
-    },
-    redes: {
-        configIP: "⭐⭐⭐⭐⭐",
-        soporteRemoto: "⭐⭐⭐⭐⭐"
-    },
-    hardware: {
-        mantenimientoPC: "⭐⭐⭐⭐⭐",
-        configImpresoras: "⭐⭐⭐⭐⭐"
-    },
-    herramientas: {
-        teamViewer: "⭐⭐⭐⭐⭐",
-        anyDesk: "⭐⭐⭐⭐⭐",
-        msOffice: "⭐⭐⭐⭐⭐"
-    }
-}
-```
-
 </details>
 
 <!-- GitHub Stats -->
