@@ -1,6 +1,5 @@
 <!-- Title and Banner -->
-<h1 align="center">¡Hola! 👋 Soy Nicolás Contreras Elgueta</h1>
-<p>24 Años - Constitucion, 🇨🇱 Chile</p>
+<h1 align="center">¡Hola! 👋 Soy Nicolás Contreras Elgueta - 24 Años - Constitucion, 🇨🇱 Chile</h1>
 
 <!-- Typing SVG -->
 <p align="center">
