@@ -38,11 +38,11 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 <summary>💻 Lenguajes y Frameworks</summary>
 <br>
 
-| Tecnología | Nivel | Experiencia |
-|------------|-------|-------------|
+| Tecnología | Nivel |
+|------------|-------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML5 | ⭐⭐⭐⭐⭐ 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS3 | ⭐⭐⭐⭐ 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript | ⭐⭐⭐
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS3 | ⭐⭐⭐⭐⭐
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript | ⭐⭐⭐⭐⭐
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React | ⭐⭐⭐⭐⭐
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap | ⭐⭐⭐⭐⭐ 
 
