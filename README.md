@@ -1,5 +1,5 @@
 <!-- Title and Banner -->
-<h1 align="center">¡Hola! 👋 Soy Nicolás</h1>
+<h1 align="center">¡Hola! 👋 Soy Nicolás Contreras Elgueta</h1>
 <p align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" width="100%">
 </p>
@@ -21,6 +21,7 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 - 💻 Instalación y configuración de sistemas operativos
 - 🛠️ Mantenimiento y optimización de equipos
 - 📊 Suite Microsoft Office y herramientas empresariales
+- 🌐 Control de version en GitHub y instalacion Git
 
 <!-- Technical Skills -->
 ## 🛠️ Habilidades Técnicas
