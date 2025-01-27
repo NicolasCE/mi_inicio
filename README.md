@@ -99,11 +99,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NicolasCE&theme=react-dark" alt="Contribution Graph" />
-</p>
-
 <!-- Contact -->
 ## 📫 Contacto
 
