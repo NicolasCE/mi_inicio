@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnologias" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Soy un profesional de TI especializado en soporte técnico y desarrollo web, con experiencia en:
+Soy un profesional de TI especializado en soporte técnico y desarrollo web, con una sólida experiencia en:
 
 - 🖥️ Soporte técnico presencial y remoto
 - 🌐 Configuración de redes e impresoras IP
@@ -33,6 +33,92 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 
 <!-- Technical Skills with Logos -->
 ## 🛠️ Habilidades Técnicas
+
+<details>
+<summary>💻 Lenguajes y Frameworks</summary>
+<br>
+
+| Tecnología | Nivel | Experiencia |
+|------------|-------|-------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML5 | ⭐⭐⭐⭐⭐ | 2+ años |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS3 | ⭐⭐⭐⭐ | 2+ años |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript | ⭐⭐⭐⭐ | 1+ años |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React | ⭐⭐⭐ | 1 año |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap | ⭐⭐⭐⭐ | 2 años |
+
+</details>
+
+<details>
+<summary>🔧 Herramientas de Desarrollo</summary>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</div>
+
+```javascript
+const herramientasDesarrollo = {
+  editor: "Visual Studio Code",
+  versionControl: ["Git", "GitHub"],
+  metodologias: ["Scrum", "Kanban"],
+  entornosDesarrollo: ["Windows", "Linux"]
+}
+```
+
+</details>
+
+<details>
+<summary>🖥️ Soporte Técnico</summary>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/><br>
+        <sub><b>Windows</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2885/2885417.png" width="40"/><br>
+        <sub><b>Redes</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/4319/4319207.png" width="40"/><br>
+        <sub><b>Hardware</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+```javascript
+const soporteTecnico = {
+    sistemas: {
+        windows: "⭐⭐⭐⭐⭐",
+        linux: "⭐⭐⭐⭐"
+    },
+    redes: {
+        configIP: "⭐⭐⭐⭐⭐",
+        soporteRemoto: "⭐⭐⭐⭐⭐"
+    },
+    hardware: {
+        mantenimientoPC: "⭐⭐⭐⭐⭐",
+        configImpresoras: "⭐⭐⭐⭐⭐"
+    },
+    herramientas: {
+        teamViewer: "⭐⭐⭐⭐⭐",
+        anyDesk: "⭐⭐⭐⭐⭐",
+        msOffice: "⭐⭐⭐⭐⭐"
+    }
+}
+```
+
+</details>
 
 <!-- GitHub Stats -->
 ## 📊 Estadísticas de GitHub
