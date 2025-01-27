@@ -118,18 +118,3 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<!-- Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolasCE&theme=radical&row=1" alt="GitHub Trophy" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasCE&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/NicolasCE/NicolasCE/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
