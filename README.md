@@ -100,6 +100,71 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## 📜 Certificaciones
+
+<details>
+<summary>🎓 Mis Certificaciones Profesionales</summary>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://cdn-icons-png.flaticon.com/512/1693/1693746.png" width="40"/><br>
+        <sub><b>Inteligencia Artificial</b></sub><br>
+        <a href="URL_DEL_PDF_IA" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Certificado-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40"/><br>
+        <sub><b>Microsoft Excel</b></sub><br>
+        <a href="URL_DEL_PDF_EXCEL" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Certificado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="40"/><br>
+        <sub><b>GitHub Copilot</b></sub><br>
+        <a href="URL_DEL_PDF_COPILOT" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Certificado-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40"/><br>
+        <sub><b>Power BI</b></sub><br>
+        <a href="URL_DEL_PDF_POWERBI" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Certificado-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/4616/4616809.png" width="40"/><br>
+        <sub><b>Google Gemini</b></sub><br>
+        <a href="URL_DEL_PDF_GEMINI" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Certificado-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/8645/8645627.png" width="40"/><br>
+        <sub><b>Más Certificaciones</b></sub><br>
+        <a href="URL_DE_TU_PORTFOLIO" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Más-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+> **Nota**: Haz clic en "Ver Certificado" para visualizar el documento PDF de cada certificación.
+
+</details>
+
+[Rest of the content remains unchanged...]
+
 <!-- Contact -->
 ## 📫 Contacto
 
