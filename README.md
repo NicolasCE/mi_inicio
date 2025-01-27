@@ -26,6 +26,7 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 
 - 🖥️ Soporte técnico presencial y remoto
 - 🌐 Configuración de redes e impresoras IP
+- 🤖 Inteligencia Artificial 
 - 💻 Instalación y configuración de sistemas operativos
 - 🛠️ Mantenimiento y optimización de equipos
 - 📊 Suite Microsoft Office y herramientas empresariales
