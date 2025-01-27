@@ -34,38 +34,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 <!-- Technical Skills with Logos -->
 ## 🛠️ Habilidades Técnicas
 
-### Lenguajes y Herramientas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-### Soporte Técnico
-```javascript
-const soporteTecnico = {
-    sistemas: ["Windows", "Linux"],
-    redes: ["Configuración IP", "Soporte Remoto"],
-    hardware: ["Mantenimiento PC", "Configuración Impresoras"],
-    herramientas: ["TeamViewer", "AnyDesk", "Microsoft Office"]
-}
-```
-
-### Desarrollo Web
-```javascript
-const desarrolloWeb = {
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
-    frameworks: ["Bootstrap", "Bulma"],
-    herramientas: ["Git", "VS Code"],
-}
-```
-
 <!-- GitHub Stats -->
 ## 📊 Estadísticas de GitHub
 
